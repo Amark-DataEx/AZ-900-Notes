@@ -112,3 +112,26 @@ With vertical scaling, if you were developing an app and you needed more process
 
 ### Horizontal scaling
 With horizontal scaling, if you suddenly experienced a steep jump in demand, your deployed resources could be scaled out (either automatically or manually). For example, you could add additional virtual machines or containers, scaling out. In the same manner, if there was a significant drop in demand, deployed resources could be scaled in (either automatically or manually), scaling in.
+# Benefits of reliability and predictability in the cloud
+Reliability and predictability are two crucial cloud benefits that help you develop solutions with confidence.
+
+## Reliability
+Reliability is the ability of a system to recover from failures and continue to function. It's also one of the pillars of the Microsoft Azure Well-Architected Framework.
+
+This is achived by cloud de-centralization design, which naturally supports a reliability and resilient infrastructure.
+
+With a decentralized design, the cloud enables you to have resources deployed in regions around the world. With this global scale, even if one region has a catastrophic event other regions are still up and running. You can design your applications to automatically take advantage of this increased reliability. In some cases, your cloud environment itself will automatically shift to a different region for you, with no action needed on your part. 
+
+## Predictability
+Predictability allowes you to move with confidence. This predictability is focused on <u>Performance predictability</u> and <u>Cost predictability.</u> These both are well influenced by MS Azure.
+
+### Performance
+This focuses on infrastructure or resources needed to delivery best experience for customers.
+* Autoscaling, load balancing, and high availability are just some of the cloud concepts that support performance predictability.
+* If you suddenly need more resources, autoscaling can deploy additional resources to meet the demand, and then scale back when the demand drops
+* if the traffic is heavily focused on one area, load balancing will help redirect some of the overload to less stressed areas.
+
+
+
+
+
