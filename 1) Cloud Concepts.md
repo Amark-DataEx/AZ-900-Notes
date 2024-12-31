@@ -130,6 +130,43 @@ This focuses on infrastructure or resources needed to delivery best experience f
 * Autoscaling, load balancing, and high availability are just some of the cloud concepts that support performance predictability.
 * If you suddenly need more resources, autoscaling can deploy additional resources to meet the demand, and then scale back when the demand drops
 * if the traffic is heavily focused on one area, load balancing will help redirect some of the overload to less stressed areas.
+### Cost
+This will help in forecasting the cost of the cloud spend.
+
+    With the cloud, you can track your resource use in real time, monitor resources to ensure that you’re using them in the most efficient way, and apply data analytics to find patterns and trends that help better plan resource deployments.
+
+* By operating in the cloud and using cloud analytics and information, you can predict future costs and adjust your resources as needed.
+* You can even use tools like the Total Cost of Ownership (TCO) or Pricing Calculator to get an estimate of potential cloud spend.
+## Benefits of security and governance in the cloud
+### governance
+Whether you’re deploying infrastructure as a service or software as a service, cloud features support governance and compliance.
+
+Things like set templates help ensure that all your deployed resources meet corporate standards and government regulatory requirements. 
+
+Plus, you can update all your deployed resources to new standards as standards change.
+
+Cloud-based auditing helps flag any resource that’s out of compliance with your corporate standards and provides mitigation strategies. Depending on your operating model, software patches and updates may also automatically be applied, which helps with both governance and security.
+### security
+On the security side, you can find a cloud solution that matches your security needs. If you want maximum control of security, infrastructure as a service provides you with physical resources but lets you manage the operating systems and installed software, including patches and maintenance. If you want patches and maintenance taken care of automatically, platform as a service or software as a service deployments may be the best cloud strategies for you.
+
+     And because the cloud is intended as an over-the-internet delivery of IT resources, cloud providers are typically well suited to handle things like distributed denial of service (DDoS) attacks, making your network more robust and secure.
+# Benefits of manageability in the cloud
+A major benefit of cloud computing is the manageability options. There are two types of manageability for cloud computing
+### Management of the cloud
+     Management of the cloud speaks to managing your cloud resources. In the cloud, you can:
+* Automatically scale resource deployment based on need.
+* Deploy resources based on a preconfigured template, removing the need for manual configuration.
+* Monitor the health of resources and automatically replace failing resources.
+* Receive automatic alerts based on configured metrics, so you’re aware of performance in real time.
+### Management in the cloud
+     Management in the cloud speaks to how you’re able to manage your cloud environment and resources. You can manage these:
+* Through a web portal.
+* Using a command line interface.
+* Using APIs.
+* Using PowerShell.
+
+# Cloud service types:
+
 
 
 
