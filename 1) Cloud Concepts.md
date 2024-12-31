@@ -88,3 +88,15 @@ Cloud computing is the delivery of computing services over the internet by using
 * Plan and manage your operating costs.
 * Run your infrastructure more efficiently.
 * Scale as your business needs change.
+
+___
+# Benefits of using cloud services
+When building or deploying a cloud application, two of the biggest considerations are uptime (or availability) and the ability to handle demand (or scale).
+## High availability
+When you’re deploying an application, a service, or any IT resources, it’s important the resources are available when needed. High availability focuses on ensuring maximum availability, regardless of disruptions or events that may occur.
+
+When you’re architecting your solution, you’ll need to account for service availability guarantees. Azure is a highly available cloud environment with uptime guarantees depending on the service. These guarantees are part of the service-level agreements (SLAs).
+* Each service has different SLAs(service level agreements)
+* In Azure some Services provide 99% availibility and some provide 99.99% availibility.
+* 99% means 1.68 hr down time per week and 7 hr of down time per month.
+* 99.99% means 10 min of down time per month and 43.2 min per month.
