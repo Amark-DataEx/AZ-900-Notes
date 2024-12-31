@@ -100,3 +100,15 @@ When you’re architecting your solution, you’ll need to account for service a
 * In Azure some Services provide 99% availibility and some provide 99.99% availibility.
 * 99% means 1.68 hr down time per week and 7 hr of down time per month.
 * 99.99% means 10 min of down time per month and 43.2 min per month.
+
+## Scalability
+Scalability refers to the ability to adjust resources to meet demand. If you suddenly experience peak traffic and your systems are overwhelmed, the ability to scale means you can add more resources to better handle the increased demand.
+
+    Scaling generally comes in two varieties: vertical and horizontal. Vertical scaling is focused on increasing or decreasing the capabilities of resources. Horizontal scaling is adding or subtracting the number of resources.
+
+
+### Vertical scaling
+With vertical scaling, if you were developing an app and you needed more processing power, you could vertically scale up to add more CPUs or RAM to the virtual machine. Conversely, if you realized you had over-specified the needs, you could vertically scale down by lowering the CPU or RAM specifications.
+
+### Horizontal scaling
+With horizontal scaling, if you suddenly experienced a steep jump in demand, your deployed resources could be scaled out (either automatically or manually). For example, you could add additional virtual machines or containers, scaling out. In the same manner, if there was a significant drop in demand, deployed resources could be scaled in (either automatically or manually), scaling in.
