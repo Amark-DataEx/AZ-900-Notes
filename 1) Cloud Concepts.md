@@ -69,3 +69,22 @@ Azure Arc is a set of technologies that helps manage your cloud environment. Azu
 ## Azure VMware Solution
 What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
 
+# Describe the consumption-based model
+When comparing IT infrastructure models, there are two types of expenses to consider. 
+
+Capital expenditure (CapEx) and operational expenditure (OpEx).
+
+Cloud computing falls under OpEx because cloud computing operates on a consumption-based model. With cloud computing, you don’t pay for the physical infrastructure, the electricity, the security, or anything else associated with maintaining a datacenter. Instead, you pay for the IT resources you use. If you don’t use any IT resources this month, you don’t pay for any IT resources.
+
+This consumption-based model has many benefits, including:
+
+* No upfront costs.
+* No need to purchase and manage costly infrastructure that users might not use to its fullest potential.
+* The ability to pay for more resources when they're needed.
+* The ability to stop paying for resources that are no longer needed.
+# Compare cloud pricing models
+Cloud computing is the delivery of computing services over the internet by using a pay-as-you-go pricing model. You typically pay only for the cloud services you use, which helps you:
+
+* Plan and manage your operating costs.
+* Run your infrastructure more efficiently.
+* Scale as your business needs change.
